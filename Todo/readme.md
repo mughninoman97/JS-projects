@@ -5,11 +5,7 @@ This is my _**Todo List project**_ of Web Development. I spent a lot of time in 
 > [Do checkout my live project](https://todo-app-by-noman.vercel.app/)
 
 FULL WEBPAGE:
-![Project8](/photo.png "proj image")
-
-
-
-
+![Project8]( /photo.png "proj image")
 
 
 

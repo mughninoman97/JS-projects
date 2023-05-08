@@ -2,7 +2,7 @@
 
 This is my _**Todo List project**_ of Web Development. I spent a lot of time in development of this project because it requires a logic building and DOM Manipulation concepts. In this project I have learnt a lot of new concepts like  _**Logic building in JS, making a static website dynamic, and DOM Manipulation **_ etc. 
 
-> [Do checkout my live project](https://project-8-by-noman.netlify.app/)
+> [Do checkout my live project](https://todo-app-by-noman.vercel.app/)
 
 FULL WEBPAGE:
 ![Project8](/photo.png "proj image")
